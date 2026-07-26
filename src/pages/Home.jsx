@@ -12,12 +12,14 @@ const Home = () => {
   return (
     <>
       <Navbar/>
-      <HeroSection/>
-      <ServiceSection/>
-      <WhyUsSection/>
-      <ResultSection/>
-      <PricingSection/>
-      <ContactSection/>
+        <main>
+          <HeroSection/>
+          <ServiceSection/>
+          <WhyUsSection/>
+          <ResultSection/>
+          <PricingSection/>
+          <ContactSection/>
+        </main>
       <FooterSection/>
     </>
   )
