@@ -209,8 +209,6 @@ Add screenshots of the project here to showcase the website.
 
 ![NorthPeak Digital Contact Section Screenshot](./src/assets/contact-section.png)
 
-> Update the image paths above if your screenshots are stored in a different directory.
-
 ---
 
 ## 🚀 Deployment
