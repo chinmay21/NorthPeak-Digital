@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+    overflow-x: hidden;
+}
+
+@theme {
+  --animate-testimonials: testimonials 30s linear infinite;
+
+  @keyframes testimonials {
+    from {
+      transform: translateX(-50%);
+    }
+    to {
+      transform: translateX(0);
+    }
+  }
+}
